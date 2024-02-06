@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan-maduwantha&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan-maduwantha" /> </p>
 
-- 🔭 I’m currently working on **Blockchain Baed Asset Tokenization Platform**
+- 🔭 I’m currently working on **Blockchain Based Asset Tokenization Platform**
 
 - 🌱 I’m currently learning **HyperLedger Fabric**
 
